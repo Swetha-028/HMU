@@ -18,7 +18,7 @@ COMMUNITY HEALTH MONITORING UNIT 💪🏻
 
 **Operation:**
 
-*	A Health monitoring device typically works by integrating various sensors and technology to continuously measure and record Vittal health parameters. 
+-	A Health monitoring device typically works by integrating various sensors and technology to continuously measure and record Vittal health parameters. 
 
 *	Health monitoring device are typically power by rechargeable batteries to ensure portability and continuous operation. 
 
