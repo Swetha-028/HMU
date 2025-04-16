@@ -47,4 +47,4 @@ COMMUNITY HEALTH MONITORING UNIT 💪🏻
 1. Real time health tracking: you can monitor your vital signs and health parameters continuously providing immediate feedback on your well-being.
 2. Early Detection: HMUs can detect health issues early, allowing for timely interventions and better health outcomes.
 2. Personalized Care: HMUs can provide personalized health recommendations and treatment plans based on individual health data.
-3. Improved Disease Management: HMUs can help manage chronic diseases, such as diabetes, hypertension, and heart disease.
+3. Improved Disease Management: HMUs can help manage chronic diseases, such as diabetes, hypertension, and heart disease...
