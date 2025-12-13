@@ -47,3 +47,10 @@
 2. Early Detection: HMUs can detect health issues early, allowing for timely interventions and better health outcomes.
 2. Personalized Care: HMUs can provide personalized health recommendations and treatment plans based on individual health data.
 3. Improved Disease Management: HMUs can help manage chronic diseases, such as diabetes, hypertension, and heart disease...
+
+**Data Analysis Dashboard**
+
+
+~ In Power BI, I cleaned and transformed the data using Power Query. Then I built an interactive dashboard. The dashboard includes line charts showing health variations over time, KPI cards for average values, gauge charts for status visualization, and a bar chart for daily summary.
+
+~ Using this dashboard, we can easily identify abnormal readings such as high heart rate or low SpO2 levels. This helps in quick analysis and decision-making.
